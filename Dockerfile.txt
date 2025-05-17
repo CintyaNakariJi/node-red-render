@@ -1,0 +1,4 @@
+FROM nodered/node-red:3.1
+
+# Exponer el puerto por donde escucha Node-RED
+EXPOSE 1880
